@@ -6,4 +6,4 @@
 https://colab.research.google.com/
 
 
-![Screenshot_3](https://user-images.githubusercontent.com/113257996/189541292-b95de479-9825-4caa-9002-1f374b41e614.png)
+![Screenshot_1](https://user-images.githubusercontent.com/113257996/196111739-4b6321fb-01aa-4f10-85a8-1ef008657a18.png)
